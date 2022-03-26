@@ -3,4 +3,4 @@ Conceptual and Physical modelling of user subscriptions, shows, the top 10 shows
 ## Purpose
 This data will allow Netflix to manage user subscriptions and provide personalised movie and show recommendations.
 ## Conceptual Model
-![alt text](https://github.com/[KaurArshnoor]/[Netflix-modelling]/blob/[main]/ConceptualModel.jpg?raw=true)
+![alt text](https://github.com/[KaurArshnoor]/[Netflix-modelling]/blob/[main]/Conceptual Model.png?raw=true)
