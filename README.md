@@ -1,4 +1,4 @@
-# Netflix modelling SQL
+# Netflix modelling MySQL
 Conceptual and Physical modelling of user subscriptions, shows, the top 10 shows/movies, user profile activity and user likes/dislikes. 
 ## Purpose
 This data will allow Netflix to manage user subscriptions and provide personalised movie and show recommendations.
